@@ -1,1 +1,2 @@
 # Prevention-of-Fire-in-Electrical-Vehicles
+Preventing fire in EVs involves addressing battery safety, thermal management, and electrical system integrity. Key measures include using advanced Battery Management Systems (BMS) to monitor temperature and voltage, ensuring proper thermal insulation, using quality components, regular maintenance, avoiding overcharging, and following manufacturer guidelines. Safe charging practices and crash protection for battery packs also play a vital role in minimizing fire risks.
